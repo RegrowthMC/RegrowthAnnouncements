@@ -25,8 +25,8 @@ dependencies {
     // Libraries
     implementation("org.lushplugins:LushLib:1.0.2")
     implementation("org.lushplugins.chatcolorhandler:paper:8.1.1")
-    implementation("io.github.revxrsal:lamp.common:4.0.0-rc.19")
-    implementation("io.github.revxrsal:lamp.bukkit:4.0.0-rc.19")
+    implementation("io.github.revxrsal:lamp.common:4.0.0")
+    implementation("io.github.revxrsal:lamp.bukkit:4.0.0")
 }
 
 java {
