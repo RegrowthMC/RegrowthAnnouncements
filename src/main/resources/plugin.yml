@@ -1,5 +1,5 @@
-name: ProjectName
+name: RegrowthAnnouncements
 version: ${version}+${commit}
-main: org.lushplugins.projectname.ProjectName
+main: org.lushplugins.regrowthannouncements.RegrowthAnnouncements
 api-version: '1.21'
-github-repo: ProjectOwner/ProjectName
+github-repo: ProjectOwner/RegrowthAnnouncements

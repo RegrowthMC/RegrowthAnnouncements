@@ -1,9 +1,9 @@
-package org.lushplugins.projectname;
+package org.lushplugins.regrowthannouncements;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class ProjectName extends JavaPlugin {
-    private static ProjectName plugin;
+public final class RegrowthAnnouncements extends JavaPlugin {
+    private static RegrowthAnnouncements plugin;
 
     @Override
     public void onLoad() {
@@ -20,7 +20,7 @@ public final class ProjectName extends JavaPlugin {
         // Disable implementation
     }
 
-    public static ProjectName getInstance() {
+    public static RegrowthAnnouncements getInstance() {
         return plugin;
     }
 }
