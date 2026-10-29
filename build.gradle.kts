@@ -22,8 +22,6 @@ dependencies {
     // Dependencies
     compileOnly("io.papermc.paper:paper-api:26.2.build.+")
 
-    // Soft Dependencies
-
     // Libraries
     implementation("org.lushplugins:LushLib:1.0.2")
     implementation("org.lushplugins.chatcolorhandler:paper:8.1.1")
