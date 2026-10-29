@@ -1,0 +1,9 @@
+announcements:
+  enabled: true
+  # Whether the announcements should be ordered randomly
+  random: false
+  # Time in seconds between announcements
+  interval: 600
+  # A list of message ids that refer to messages that are created in the 'messages' directory
+  messages:
+    - "example"
