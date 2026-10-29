@@ -2,4 +2,4 @@ name: RegrowthAnnouncements
 version: ${version}+${commit}
 main: org.lushplugins.regrowthannouncements.RegrowthAnnouncements
 api-version: '1.21'
-github-repo: ProjectOwner/RegrowthAnnouncements
+github-repo: RegrowthMC/RegrowthAnnouncements
